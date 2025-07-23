@@ -4,12 +4,6 @@ This project explores student exam performance based on various demographic and 
 
 ---
 
-## 📌 Problem Statement
-
-You are given a dataset containing exam scores and demographic attributes of students. The objective is to perform in-depth analysis to uncover what influences student performance and present it visually using Power BI.
-
----
-
 ## 📂 Dataset
 
 * **Source:** [Kaggle - Student Performance Dataset](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams)
@@ -107,6 +101,5 @@ You are given a dataset containing exam scores and demographic attributes of stu
 
 ## 📧 Contact
 
-**Zuha M. Ismail**
 For queries, suggestions, or collaborations, feel free to connect!
 
